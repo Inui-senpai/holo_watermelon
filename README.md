@@ -1,38 +1,19 @@
-# ホロのスイカ
+# Холо-дойки
+## Общие сведения
+Проект создан и опубликован как браузерная игра-производная работа по Hololive.
 
-## 概要
-ホロライブの二次創作ブラウザゲームとして作成、公開されています。
-
-カバー株式会社 二次創作ガイドライン
+Руководство Cover Inc. по производным работам:
 https://www.hololive.tv/terms
 
-## 公開ページ
-公開先の変更やクレジット表記があるためリンクする場合はこちらにお願いします。
-
+## Общедоступная страница
+Если вы хотите оставить ссылку на общедоступную страницу игры, используйте нижеследующую ссылку:
 https://tkgames.jp/holo_watermelon.html
 
-## 禁止事項
-コードやデータの解析・抽出
+## Запреты
+* Анализ и/или извлечение кода и/или данных.
+* Воспроизведение путём переадресации данных.
 
-データ流用による転載
+## Об этом форке
+Данный форк проекта «Holo no Suika» (ホロのスイカ) является переводом последнего на русский язык. Он не служит любой другой цели.
 
-
-# Holo watermelon
-
-## Overview
-It is created and published as a derivative work browser game of Hololive.
-
-Cover Co., Ltd. Derivative Creation Guidelines
-https://www.hololive.tv/terms
-
-## Public page
-If you would like to link to this site please do so here.
-
-https://tkgames.jp/holo_watermelon.html
-
-## Prohibited matter
-Analyzing and extracting code and data
-
-Reprint due to data diversion
-
-(Translated by GoogleTranslate)
+Перевод игры выполнен специально для фан-группы RG Smoking Room (https://vk.com/onthecrack).
